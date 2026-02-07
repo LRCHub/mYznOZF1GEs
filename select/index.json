@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕の横で眠るキミが",
+  "base_artist": "Ryuki",
+  "createdAt": "2026-02-07T06:11:45.440790Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕の横で眠るキミが",
+      "artist": "Ryuki",
+      "has_synced": false,
+      "path": "select/pl_01_僕の横で眠るキミが_Ryuki.txt"
+    }
+  ]
+}
